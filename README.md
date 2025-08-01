@@ -1,7 +1,7 @@
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+,+I'm+Rishindu+Yohan+👋;Fullstack+Developer+%F0%9F%92%BB;Code+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Code+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 
@@ -71,7 +71,7 @@
     <td width="50%">
       <h3 align="center"><strong>My Programming Languages</strong></h3>
       <p align="center">
-        <a href="https://github.com/rishinduyohan/cryptos">
+        <a href="https://github.com/rishinduyohan">
          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishinduyohan&count_private=true&show_icons=true&theme=nightowl" alt="Languages" />
         </a>
       </p>
