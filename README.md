@@ -1,4 +1,11 @@
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+,+I'm+Rishindu+Yohan+👋;Fullstack+Developer+%F0%9F%92%BB;Code+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
+
+
+
 <h1 align="center">Hello 👋, I'm Rishindu Yohan</h1>
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
@@ -18,12 +25,18 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-<br>
+<br><br><br>
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,mongo,postman,git,figma,vscode,docker,aws,supabase,linux&perline=8"  />
+</p>
+<br />
+
+<h2 align="center">Trophies</h2> 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rishinduyohan&theme=juicyfresh&no-bg=true" />
 </p>
 <br />
 
@@ -56,10 +69,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>My Programming Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/rishinduyohan/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=rishinduyohan&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishinduyohan&count_private=true&show_icons=true&theme=nightowl" alt="Languages" />
         </a>
       </p>
     </td>
@@ -74,7 +87,11 @@
   </tr>
 </table>
 <br />
-
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+<br>
 <!--Dynamic Quote card updated at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
