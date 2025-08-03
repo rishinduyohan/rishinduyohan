@@ -12,8 +12,8 @@
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=rishinduyohan&label=Profile%20views&color=0e75b6&style=flat" alt="rishindu yohan" /> 
 </p>
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif">
-<br><br>
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif">
+<br>
 
 - 🌱 I’m currently learning **Software Engineering**
 
