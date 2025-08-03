@@ -1,7 +1,9 @@
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Code+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" width="1100" height="500" alt="Gamer Pixel Coding"/>
 </div>
 
 <h1 align="center">Hello 👋, I'm Rishindu Yohan</h1>
@@ -10,8 +12,8 @@
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=rishinduyohan&label=Profile%20views&color=0e75b6&style=flat" alt="rishindu yohan" /> 
 </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br><br><br>
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif">
+<br><br>
 
 - 🌱 I’m currently learning **Software Engineering**
 
