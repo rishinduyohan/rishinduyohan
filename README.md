@@ -71,7 +71,7 @@
       <h3 align="center"><strong>My Programming Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/rishinduyohan">
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishinduyohan&count_private=true&show_icons=true&theme=nightowl" alt="Languages" />
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishinduyohan&count_private=true&show_icons=true&theme=nightowl" alt="Languages"/>
         </a>
       </p>
     </td>
