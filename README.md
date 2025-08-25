@@ -4,8 +4,7 @@
 <div align="center">
   <img src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" width="1100" height="500" alt="Gamer Pixel Coding"/>
 </div>
-<h1 align="center">Hello 👋, I'm Rishindu Yohan</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
+
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=rishinduyohan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
