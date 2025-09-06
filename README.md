@@ -75,11 +75,9 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Repository Performance Stats - Last 28 days</strong></h3>
       <p align="center">
-        <a href="https://github.com/rishinduyohan">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=rishinduyohan&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
+          <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1048583405&image_size=auto" />
       </p>
     </td>
   </tr>
