@@ -75,9 +75,11 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Repository Performance Stats - Last 28 days</strong></h3>
+      <h3 align="center"><strong>Spotify Playing 🎧</strong></h3>
       <p align="center">
-          <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1048583405&image_size=auto" />
+     
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
       </p>
     </td>
   </tr>
