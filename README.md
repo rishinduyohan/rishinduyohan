@@ -44,47 +44,10 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishinduyohan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<br>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/rishinduyohan">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishinduyohan&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/rishinduyohan">
-          <img align="center" src="https://streak-stats.demolab.com?user=rishinduyohan&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>My Programming Languages</strong></h3>
-      <p align="center">
-        <a href="https://github.com/rishinduyohan">
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishinduyohan&count_private=true&show_icons=true&theme=nightowl" alt="Languages"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Spotify Playing 🎧</strong></h3>
-      <p align="center">
-     
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-      </p>
-    </td>
-  </tr>
-</table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishinduyohan&layout=donut&hide=other&theme=nightowl&show_icons=true)
+
 <br />
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
