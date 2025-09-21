@@ -13,13 +13,6 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,mongo,postman,git,figma,vscode,docker,aws,supabase,linux,photoshop,ai&perline=9"  />
 </p>
 <br />
-
-<h2 align="center">Trophies</h2> 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rishinduyohan&theme=juicyfresh&no-bg=true" />
-</p>
-<br />
-
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
