@@ -5,7 +5,7 @@
       <img src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" width="500" alt="Gamer Pixel Coding"/>
     </td>
     <td>
-      I am fascinated by how computer technology has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. <br><br> And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
+      try { success(); } catch(errors) { learn(); } <br><br>  I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
     </td>
   </tr>
 </table>
