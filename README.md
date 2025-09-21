@@ -29,8 +29,7 @@
 </div>
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishinduyohan&layout=donut&hide=other&theme=nightowl&show_icons=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishinduyohan&layout=donut&hide=other&theme=nightowl&show_icons=true) .. ![Stats](https://github-readme-stats.vercel.app/api?username=rishinduyohan&show_icons=true&theme=nightowl)
 <br />
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
