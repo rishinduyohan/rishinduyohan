@@ -9,9 +9,7 @@
     </td>
   </tr>
 </table>
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=rishinduyohan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-</p>
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
