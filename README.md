@@ -1,14 +1,4 @@
 <h1 align="center">Hello 👋, I'm Rishindu Yohan</h1>
-<table>
-  <tr>
-    <td>
-      <img src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" width="500" alt="Gamer Pixel Coding"/>
-    </td>
-    <td>
-      try { success(); } catch(errors) { learn(); } <br><br>  I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
-    </td>
-  </tr>
-</table>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=rishinduyohan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
