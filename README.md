@@ -12,12 +12,7 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=rishinduyohan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
-<!--Languages and Tools Section-->    
-<h2 align="center">Languages and Tools</h2>
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,mongo,postman,git,figma,vscode,docker,aws,supabase,linux,photoshop,ai&perline=9"  />
-</p>
-<br />
+
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
