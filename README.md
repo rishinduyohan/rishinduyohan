@@ -15,7 +15,7 @@
 <!--Languages and Tools Section-->    
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,mongo,postman,git,figma,vscode,docker,aws,supabase,linux,photoshop,ai&perline=9"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,js,linux,kali,html,css,react,nodejs,py,mongo,postman,git,figma,vscode,docker,aws,photoshop,ai&perline=9"  />
 </p>
 <br />
 <!--Contribution Graph-->
